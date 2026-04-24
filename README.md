@@ -68,7 +68,7 @@ Analyze profit margins and order patterns
 
 🔷 Screenshot / Demos
 Show What The Dashboard Looks like :- ![Alt Text](https://github.com/Sunnygarde-01/Superstore-Dashboard/blob/main/Superstore_orignal_report.png).
-Exampla :- ![Dashboard preview](https://github.com/Sunnygarde-01/Superstore-Dashboard/blob/main/Superstore_orignal_report.png).
+
 
 🔷 Author
 Sunny Garde
